@@ -7,8 +7,12 @@
   padding-right: 5% ;
 }
 
+#nav-img{
+  margin-bottom: 2% ;
+}
+
 a{
-  padding-top: 1%;
+  padding-top: 5%;
   font-size: 1.4vw;
   font-family: 'Normal-Regular';
 }

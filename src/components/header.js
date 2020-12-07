@@ -17,8 +17,9 @@ class Header extends React.Component{
       <Row>
       <Navbar className="nav">
         <Navbar.Brand href="#home"><img
+            id="nav-img"
             src={Logo}
-            width="45%"
+            width="50%"
             className="d-inline-block align-top"
             alt="AJAX LOGO"
           /></Navbar.Brand>
