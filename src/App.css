@@ -28,9 +28,9 @@ button{
 .navbar h3{
   text-align: center;
   font-size: 2.1vw;
-  padding-top: 5%;
+  padding-top: 2%;
   padding-bottom: 15%;
-  font-family: 'Normal-Bold';
+  font-family: 'Normal-ExtraBold';
   
 }
 
@@ -77,18 +77,23 @@ span {
 }
 
 .blueLine{
-  border-bottom: 1px solid rgb(64, 151, 257);
+  border-bottom: 2px solid rgb(64, 151, 257);
   display: block;
   margin-left: 10%;
   margin-right: 10%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  color: rgb(64, 151, 257);
 }
 
-.capabilities .blackLine{
-  border-bottom: 2px black;
+.blackLine{
+  border-bottom: .5px black;
   display: block;
   margin-left: 10%;
   margin-right: 10%;
   color: black;
+  margin-bottom: 2%;
+  margin-top: 5%;
 }
 
 .capabilities{
@@ -139,7 +144,7 @@ h3{
   position: relative;
   text-align: center;
   color: white;
-  font-size: 1.9vw;
+  font-size: 2.2vw;
   padding-bottom: 0%;
   margin-bottom: 0%;
   border-bottom: 0%;
@@ -155,7 +160,7 @@ h3{
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Normal-ExtraBold';
-  font-size: 1.8vw;
+  font-size: 2.2vw;
 }
 
 .leadership{
