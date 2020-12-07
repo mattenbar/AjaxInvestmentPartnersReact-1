@@ -4,6 +4,8 @@
   background-size: 100% 100%;
   align-content: center;
   justify-content: center;
+  align-items: center;
+  align-self: center;
   width: 100%;
   padding-left: 5%;
 }
@@ -53,24 +55,20 @@ button{
 }
 
 .about h3{
-  padding-top: 2%;
+  
   text-align: center;
   font-size: 2vw;
+  padding-top: 2%;
+  padding-bottom: 2%;
   font-family: 'Normal-ExtraBold';
 }
 
 .about p{
   font-family: 'Normal-Regular';
   text-align: justify;
-  padding-left: 5%;
   font-size: 2vw;
   padding-right: 5%;
-  padding-top: 5%;
-  padding-bottom: 2%;
-}
-
-.about{
-  padding-bottom: 2%;
+  padding-left: 5%;
   padding-bottom: 2%;
 }
 
