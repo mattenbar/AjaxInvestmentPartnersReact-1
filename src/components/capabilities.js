@@ -17,7 +17,6 @@ class Capabilities extends Component {
 
     return(
       <div className="capabilities" id="capabilities">
-        <br/>
         <h3>CAPABILITIES</h3>
         <p>
           We create significant and long-term value for wealth management businesses by bringing
