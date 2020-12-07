@@ -21,17 +21,13 @@ class Capabilities extends Component {
         <h3>CAPABILITIES</h3>
         <p>
           We create significant and long-term value for wealth management businesses by bringing
-          <br/>
           together the right capital structure with the right strategic plan.
         </p>
         <span className="blackLine"
           style={{"borderBottom": "2px solid black"}}></span>
         <p>
           Through our seasoned internal team and in collaboration with long standing strategic partners, 
-          <br/>
           our capabilities encompass:
-          
-          <br/>
         </p>
         {capabilitiesList}
       </div>
