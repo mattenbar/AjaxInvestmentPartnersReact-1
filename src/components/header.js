@@ -23,7 +23,7 @@ class Header extends React.Component{
             alt="AJAX LOGO"
           /></Navbar.Brand>
         <Navbar.Toggle />
-        <Navbar.Collapse className="justify-content-end" >
+        <Navbar.Collapse className="justify-content-end" style={{paddingRight: "5%"}}>
           <Navbar.Text style={{display: "flex"}}>
             <a href="#about">ABOUT&nbsp;US</a>&nbsp;&nbsp;&nbsp;
             <a href="#capabilities">&nbsp;CAPABILITIES</a>&nbsp;&nbsp;&nbsp;
