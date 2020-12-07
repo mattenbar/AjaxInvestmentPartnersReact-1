@@ -17,7 +17,7 @@ class AboutUs extends Component{
           partner</span> for mature  enterprises seeking fresh investment  and new initiatives to  fuel  growth.
         </p>
         <span className="blueLine"></span>
-        <p>
+        <p className="last-p">
           From providing seed capital for new ventures, to facilitating growth equity investment transactions, 
           to identifying new avenues for profitable expansion, Ajax Investment Partners combines a passion for the <span>transformative
           power of financial services</span>, with a <span>commitment to driving value</span> for our portfolio companies, our strategic
