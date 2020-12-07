@@ -55,7 +55,7 @@ button{
   
   text-align: center;
   font-size: 2vw;
-  padding-top: 3%;
+  padding-top: 5%;
   padding-bottom: 3%;
   font-family: 'Normal-ExtraBold';
 }
@@ -66,7 +66,7 @@ button{
   font-size: 2vw;
   padding-right: 5%;
   padding-left: 5%;
-  padding-bottom: 2%;
+  
 }
 
 span {
@@ -78,9 +78,9 @@ span {
   display: block;
   margin-left: 10%;
   margin-right: 10%;
-  margin-bottom: 5%;
-  margin-top: 5%;
   color: rgb(64, 151, 257);
+  padding-top: 5%;
+  margin-bottom: 5%;
 }
 
 .blackLine{
@@ -89,8 +89,8 @@ span {
   margin-left: 10%;
   margin-right: 10%;
   color: black;
+  padding-top: 5%;
   margin-bottom: 5%;
-  margin-top: 5%;
 }
 
 .capabilities{
@@ -101,7 +101,7 @@ span {
 }
 
 .capabilities h3{
-  padding-top: 3%;
+  padding-top: 5%;
   padding-bottom: 3%;
   text-align: center;
   font-size: 2vw;
@@ -130,7 +130,7 @@ h3{
   padding-right: 3%;
   font-size: 1.5vw;
   font-family: 'Normal-Regular';
-  padding-bottom: 2%;
+  padding-bottom: 5%;
   margin-bottom: 0;
   border-bottom: 0;
 }
@@ -160,14 +160,15 @@ h3{
 
 .leadership{
   padding-left: 5%;
-  padding-right: 3%;
+  padding-right: 5%;
   font-size: 1.9vw;
-  padding-bottom: 3%;
+  padding-bottom: 5%;
 }
 
 .leadership h3{
   text-align: center;
   font-size: 2vw;
+  padding-top: 5%;
   padding-bottom: 3%;
 }
 
@@ -192,7 +193,8 @@ h3{
   font-size: 1.5vw;
   background-color: rgb(64, 151, 257);
   color: white;
-  padding-bottom: 2%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   font-family: 'Normal-Regular'; 
 }
 
