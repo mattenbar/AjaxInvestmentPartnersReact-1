@@ -1,10 +1,9 @@
 .navbar{
-  background-image: url("images/AjaxWebsiteTopImage.jpg");
+  background-image: url("./images/AjaxWebsiteTopImage.jpg");
   background-repeat: no-repeat;  
   background-size: 100% 100%;
   align-content: center;
   width: 100%;
-  
 }
 
 a{
@@ -133,7 +132,7 @@ h3{
   margin-bottom: 0%;
   border-bottom: 0%;
   background-size: 100% 100%;
-  background-image: url("images/BlueMountainBottomImg.jpg");
+  background-image: url("./images/BlueMountainBottomImg.jpg");
   font-family: 'Normal-ExtraBold';
   
 }
@@ -202,23 +201,23 @@ h3{
 
 @font-face {
   font-family: 'Normal-Bold';
-  src: local('Normal-Bold'), url("./fonts/Normal-Bold.otf") format('truetype');
+  src: url("./fonts/Normal-Bold.otf") format('truetype');
 }
 
 @font-face {
   font-family: 'Normal-ExtraBold';
-  src: local('Normal-ExtraBold'), url("./fonts/Normal-ExtraBold.otf") format('truetype');
+  src: url("./fonts/Normal-ExtraBold.otf") format('truetype');
 }
 
 @font-face {
   font-family: 'Normal-ExtraLight';
-  src: local('Normal-ExtraLight'), url("./fonts/Normal-ExtraLight.otf") format('truetype');
+  src: url("./fonts/Normal-ExtraLight.otf") format('truetype');
 }
 @font-face {
   font-family: 'Normal-Light';
-  src: local('Normal-Light'), url("./fonts/Normal-Light.otf") format('truetype');
+  src: url("./fonts/Normal-Light.otf") format('truetype');
 }
 @font-face {
   font-family: 'Normal-Regular';
-  src: local('Normal-Regular'), url("./fonts/Normal-Regular.otf") format('truetype');
+  src: url("./fonts/Normal-Regular.otf") format('truetype');
 }

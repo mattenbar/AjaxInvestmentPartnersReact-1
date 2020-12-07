@@ -1,6 +1,12 @@
 import React from 'react';
+
 import './fonts/Normal-Regular.ttf'
+import './fonts/Normal-Regular.otf'
 import './fonts/Normal-ExtraBold.ttf'
+import './fonts/Normal-ExtraBold.otf'
+import './images/AjaxWebsiteTopImage.jpg'
+import './images/BlueMountainBottomImg.jpg'
+
 import './App.css';
 import Header from './components/header'
 import AboutUs from './components/aboutUs.js'
@@ -9,7 +15,7 @@ import Leadership from './components/leadership'
 import Footer from './components/footer'
 import BlueMountains from './components/blueMountains'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import './App.css';
 
 
 

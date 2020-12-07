@@ -1,7 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import './fonts/Normal-Regular.otf'
-// import './fonts/Normal-ExtraBold.otf'
+
+import './fonts/Normal-Regular.ttf'
+import './fonts/Normal-Regular.otf'
+import './fonts/Normal-ExtraBold.ttf'
+import './fonts/Normal-ExtraBold.otf'
+import './images/AjaxWebsiteTopImage.jpg'
+import './images/BlueMountainBottomImg.jpg'
+
+
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
