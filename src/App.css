@@ -2,12 +2,9 @@
   background-image: url("./images/AjaxWebsiteTopImage.jpg");
   background-repeat: no-repeat;  
   background-size: 100% 100%;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
-  align-self: center;
   width: 100%;
   padding-left: 5%;
+  padding-right: 5% ;
 }
 
 a{
@@ -22,7 +19,6 @@ button{
   text-decoration: none;
   border: none;
   text-align: center;
-  padding: 2% 7%;
 }
 
 .navbar h3{
@@ -53,6 +49,7 @@ button{
   position: relative;
 
 }
+
 
 .about h3{
   
