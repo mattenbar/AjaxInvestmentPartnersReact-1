@@ -36,7 +36,7 @@ class Leadership extends React.Component{
               <img width="16%" src={Adam} alt="Adam Malamed Head-shot"/>
               <b>ADAM MALAMED</b>
               <br/>
-              President and CEO, Ajax&nbsp;Investment&nbsp;Partners
+              President and CEO, Ajax Investment Partners
               <br /><br />
               Adam Malamed is the President and CEO of Ajax Investment Partners, a private growth
               capital and M&A advisory firm for the financial services space, with a particular emphasis 
@@ -77,7 +77,7 @@ class Leadership extends React.Component{
                 <img width="16%" src={Adam} alt="Adam Malamed Head-shot"/>
                 <b>ADAM MALAMED</b>
                 <br/>
-                President and CEO, AjaxInvestmentPartners
+                President and CEO, Ajax Investment Partners
                 <br /><br />
                 Adam Malamed is the President and CEO of Ajax Investment Partners, a private growth
                 capital and M&A advisory firm for the financial services space, with a particular emphasis 
