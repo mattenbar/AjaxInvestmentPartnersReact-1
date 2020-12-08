@@ -6,7 +6,7 @@ class Capabilities extends Component {
 
     let capabilitiesList = (
       <ul>
-        <li>Venture capital investments for early-stage wealth management stat-ups</li>
+        <li>Venture capital investments for early-stage wealth management start-ups</li>
         <li>Business incubator solutions for fin-tech companies </li>
         <li>Growth and customer acquisition strategy </li>
         <li>Strategic planning and execution support </li>

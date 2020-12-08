@@ -8,7 +8,7 @@ class AboutUs extends Component{
         <h3>ABOUT US</h3>
         <p>
           Ajax Investment Partners aligns <span className="blue">financial and intellectual capital, strategic relationships and transformational growth
-          strategies</span> with financial services businesses that have a unique vision for creative disruption that drives platform,
+          strategies</span> with financial services businesses that have a unique vision for creative disruption that drives platforms,
           value, and scale.
         </p>
         <span className="blueLine"></span>
