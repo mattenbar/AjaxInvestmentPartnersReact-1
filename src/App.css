@@ -54,6 +54,35 @@ button{
 
 }
 
+.news{
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.news h3{
+  
+  text-align: center;
+  font-size: 2vw;
+  padding-top: 5%;
+  padding-bottom: 3%;
+  font-family: 'Normal-ExtraBold';
+}
+
+.news img{
+  float: left;
+  padding-right: 2%;
+  padding-bottom: 5%;
+}
+
+.news p{
+  font-size: 1.5vw;
+  padding-bottom: 5%;
+}
+
+.news a{
+  color: rgb(64, 151, 257);
+}
+
 
 .about h3{
   
@@ -190,6 +219,8 @@ h3{
   float: left;
   padding-right: 2%;
 }
+
+
 
 .Learn{
   color: rgb(64, 151, 257);

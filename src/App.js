@@ -14,6 +14,7 @@ import Capabilities from './components/capabilities'
 import Leadership from './components/leadership'
 import Footer from './components/footer'
 import BlueMountains from './components/blueMountains'
+import News from './components/news.js'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -25,6 +26,7 @@ function App() {
       <Header className="header"/>
       <AboutUs />
       <Capabilities className="capabilities" />
+      <News className="news" />
       <BlueMountains />
       <Leadership className="leadership" />
       <Footer className="footer" />

@@ -28,6 +28,7 @@ class Header extends React.Component{
           <Navbar.Text style={{display: "flex"}}>
             <a href="#about">ABOUT&nbsp;US</a>&nbsp;&nbsp;&nbsp;
             <a href="#capabilities">&nbsp;CAPABILITIES</a>&nbsp;&nbsp;&nbsp;
+            <a href="#news">&nbsp;NEWS</a>&nbsp;&nbsp;&nbsp;
             <a href="#leadership">&nbsp;LEADERSHIP</a>&nbsp;&nbsp;&nbsp;
             <a style={{marginRight: "10%"}} href="#footer"><button className="contact-button" href="#footer">CONTACT&nbsp;US</button></a>
           </Navbar.Text>
