@@ -1,5 +1,6 @@
 import React from 'react'
 import googleGlassImage from '../images/google-glass.jpg'
+import digitalWealth from '../images/digital-wealth.jpg';
 
 class News extends React.Component{
 
@@ -14,6 +15,15 @@ class News extends React.Component{
           By Adam Malamed
           <br/>
           January 12, 2021
+        </p>
+
+        <p>
+          <img width="16%" src={digitalWealth} alt="digital-wealth"/>
+          <a href="https://dwealth.news/2021/02/recent-market-disruption-escalates-interest-in-ai-driven-asset-management/" target="_blank" rel="noreferrer"><b>Recent Market Disruption Escalates Interest in AI-Driven Asset Management</b></a>
+          <br/>
+          By DWN Staff
+          <br/>
+          February 16, 2021
         </p>
         
 
