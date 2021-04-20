@@ -40,7 +40,7 @@ class Header extends React.Component{
           <h3 >
               ALIGNING&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;AND&nbsp;&nbsp;INTELLECTUAL&nbsp;&nbsp;CAPITAL,&nbsp;&nbsp;STRATEGIC 
               <br /><br />
-              RELATIONSHIPS&nbsp;&nbsp;AND&nbsp;&nbsp;TRANSFORMATIONAL&nbsp;&nbsp;
+              RELATIONSHIPS&nbsp;&nbsp;AND&nbsp;&nbsp;TRANSFORMATIONAL&nbsp;&nbsp;PLANNING
               <br /><br />
               FOR&nbsp;&nbsp;BUSINESSES&nbsp;&nbsp;SEEKING&nbsp;&nbsp;EXPONENTIAL&nbsp;&nbsp;GROWTH
           </h3> 
