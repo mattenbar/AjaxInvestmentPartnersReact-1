@@ -12,8 +12,7 @@ class AboutUs extends Component{
         </p>
         <span className="blueLine"></span>
         <p>
-          We are an <span>incubator</span> of early-stage companies, a <span>growth accelerator</span> for firms hitting their stride and a <span>strategic partner</span> 
-          for mature enterprises seeking fresh investment and new initiatives to fuel growth.
+          We are an <span>incubator</span> of early-stage companies, a <span>growth accelerator</span> for firms hitting their stride and a <span>strategic partner </span> for mature enterprises seeking fresh investment and new initiatives to fuel growth.
         </p>
         <span className="blueLine"></span>
         <p className="last-p">
